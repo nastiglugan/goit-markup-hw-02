@@ -1,0 +1,12 @@
+body {
+  font-family: 'Roboto', 'Helvetica Neue', 'Verdana', 'Tahoma', sans-serif;
+  color: #212121;
+}
+
+:root {
+  --background-color-first: #2f303a;
+  --background-color-second: #f5f4fa;
+  --color-blue: #2196f3;
+  --color-dark: #212121;
+  --color-ligt: #757575;
+}
